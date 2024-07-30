@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user2
+HostName                       smdp
+ProcessIdentifier              20897
+ProcessCreationTime_UTC        1722349191
+ProcessCreationTime_Readable   Tue Jul 30 19:49:51 2024 IST
+AppIdentifier                  /opt/cadence/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/user2/Desktop/Harsh/harshwork/2x2sramarray/physConfig/physExpand.cfg
+TimeEditLocked                 Tue Jul 30 20:07:18 2024 IST
